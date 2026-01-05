@@ -1,4 +1,4 @@
-# Databricks Data Engineering Project (d=git)
+# Databricks Data Engineering Professional
 
 This repository contains code, configuration, and documentation for building scalable data engineering pipelines on **Databricks** using **Python, SQL, Spark, and Lakeflow Declarative Pipelines**. It is optimized for **Databricks Asset Bundles (DABs)**, enabling modular development, automated deployment, and CI/CD integration.
 
